@@ -9,7 +9,7 @@
 }
 
 .navbar {
-    background-color: #086b22;
+    background-color: #e60174;
     font-family: Arial, Helvetica, sans-serif;
     padding-top: 10px;
 }
@@ -21,7 +21,7 @@
     color: #2c2c2c;
 }
 .navbar a.active {
-    background-color: #2acf43;
+    background-color: #b200ee;
     color: white;
     font-weight: bold;
 }
